@@ -1,6 +1,5 @@
 n = 9
 n += 2
 
-a=3
-a=3
-
+def add(a,b):
+    return a+b
